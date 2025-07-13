@@ -28,7 +28,7 @@ This project involves building and evaluating a neural network using **PyTorch**
 ```python
 nn.Sequential(
     nn.Flatten(),
-    nn.Linear(784, 128),
+    nn.Linear(28*28, 128),
     nn.ReLU(),
     nn.Linear(128, 128),
     nn.ReLU(),
