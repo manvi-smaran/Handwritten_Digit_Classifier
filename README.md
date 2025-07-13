@@ -8,7 +8,6 @@ This project involves building and evaluating a neural network using **PyTorch**
 🔹 **Analysis & Reporting**
 
 ---
-<br>
 
 ## 🚀 Best Performing Model
 
