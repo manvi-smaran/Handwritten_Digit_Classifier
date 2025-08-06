@@ -71,7 +71,7 @@ Across 18 experiments, three factors emerged as most influential: **activation f
 
 ## 🡩‍💻 Author
 
-Made by [**Anushka Verma**](https://github.com/anushka-verma-CODES) , [**Daksh Aggarwal**](https://github.com/Daksh-Aggarwal)  and [**Vemula Manvi Smaran**](https://github.com/manvi-smaran).
+Made by [**Vemula Manvi Smaran**](https://github.com/manvi-smaran).
 
 ## 📄 License
 
